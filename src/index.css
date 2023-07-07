@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue',
+    sans-serif;
+}
+#logo{
+  height: 50px;
+}
+.card-text-height{
+  height: 100px;
+}
+.btn5{
+  width: 50px;
+  border: none;
+  background-color: #fff;
+  font-size: 25px;
+}
+.thumb{
+  width: 70px;
+}
+.short{
+  max-width: 30px
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
